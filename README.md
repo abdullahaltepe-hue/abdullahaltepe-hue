@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mehmet</h1>
+<h1 align="center">Hi, I'm Abdullah</h1>
 
 <p align="center">
   <b>Senior Data Analyst | SAP Analytics | Python & SQL | Statistical Modeling</b><br/>
